@@ -9,7 +9,7 @@
 2) Aakash Dholakia: [@AakashDholakia](https://github.com/AakashDholakia)
 3) Dan Kerik: [@dan-kerik](https://github.com/dan-kerik)
 4) Hayley Daniels: [@hayleydaniels](https://github.com/hayleydaniels)
-5) Jordan Beal: [@JordanBeal](https://github.com/Jlb65166)
+5) Jordan Beal: [@JordanBeal](https://github.com/jordanbeal1)
 6)  Lexie-Anne Rodkey: [@LexieRodkey](https://github.com/lexierodkey)
 
 ## The Dataset:
