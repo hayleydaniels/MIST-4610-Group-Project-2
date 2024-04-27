@@ -133,7 +133,8 @@ Similar to the first question, this question is also tied to the dataset because
 
 Using the Youth Tobacco Survey dataset, we analyzed state-specific data collected over the years of 1999 to 2017 to uncover patterns in tobacco usage rates among youth. Two main visualizations were developed: the first detailing average tobacco use by state, and the second breaking down the user status within the demographic of current youth tobacco users.
 
-Insert graph 1
+
+![StateSpecificYouthTobaccoRates](https://github.com/hayleydaniels/MIST-4610-Group-Project-2/assets/150054646/f968acfa-19ce-477d-a162-abd494c7984f)
 
 **State-Specific Tobacco Use:**
 
