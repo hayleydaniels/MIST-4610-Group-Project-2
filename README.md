@@ -142,7 +142,8 @@ Our analysis revealed that Florida has the highest average rate of youth tobacco
 
 On the other end of the spectrum, Vermont reported the lowest rate at 19.31%, with North Carolina and the District of Columbia closely following. These figures are promising and may reflect the successful implementation of tobacco control policies and public health initiatives aimed at reducing youth tobacco consumption.
 
-Insert graph 2
+
+![YouthTobaccoUsersStatus](https://github.com/hayleydaniels/MIST-4610-Group-Project-2/assets/150054646/aa8a65a2-f249-4135-898a-0935548d05f8)
 
 **Youth Tobacco User Status:**
 
@@ -163,13 +164,16 @@ In conclusion, while there is a substantial variation in tobacco use rates acros
 
 The aim of this analysis was to identify trends in youth tobacco use over time and to explore any discernible differences based on gender. Using Tableau, we created two trend visualizations: one depicting the general historical trend in youth tobacco use, and the other disaggregating the data by gender.
 
-Insert graph 3
+
+![HistoricalTrendInYouthTobaccoUse](https://github.com/hayleydaniels/MIST-4610-Group-Project-2/assets/150054646/0e7712c3-343e-45af-b36b-153d8a7a59dd)
 
 **General Historical Trends:**
 
 The general trend of youth tobacco use from 1999 to 2017 shows a statistically significant decrease with an R-squared value of 0.959, indicating that approximately 95.8% of the variability in the average data value can be explained by the year alone. This downward trend has a slope coefficient of -0.0020286 (p < 0.0001), which suggests an annual average decrease in the rate of tobacco use by about 0.20%. Looking into the future, the forecasted data, shaded in the visualization, estimates this trend will continue, leading to a further reduction in tobacco use among youth, which aligns with the objectives of ongoing public health efforts.
 
-Insert graph 4
+
+![HistoricalTrendInYouthTobaccoUseByGender](https://github.com/hayleydaniels/MIST-4610-Group-Project-2/assets/150054646/57373ddf-4caa-492f-b7c7-f8f265cf3966)
+
 
 **Trends by Gender:**
 
